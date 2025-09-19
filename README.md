@@ -1,5 +1,5 @@
 # Physics_Tools
-This repo contains functions and classes aimed at helping with the computation/modelling of various physical/mathematical problems. \
+Functions and classes aimed at helping with the computation/modelling of various physical/mathematical problems. \
 If you have any questions or comments please get in touch. \
 Email: lukewivell01@gmail.com
 
